@@ -15,3 +15,6 @@ Maven
 Java
 Gitbash: https://git-scm.com/downloads
 Vscode
+
+## Web:
+https://seniorautomationtest.com/
